@@ -50,6 +50,9 @@ Main contributions received funding by the following parties:
 The publication was written at Virtual Vehicle Research GmbH in Graz and partially funded by the COMET K2 Competence Centers for Excellent Technologies from the Austrian Federal Ministry for Climate Action (BMK), the Austrian Federal Ministry for Digital and Economic Affairs (BMDW), the Province of Styria (Dept. 12) and the Styrian Business Promotion Agency (SFG). The Austrian Research Promotion Agency (FFG) has been authorised for the programme management.
 
 ### InSecTT 
-InSecTT (www.insectt.eu) has received funding from the ECSEL Joint Undertaking (JU) under grant agreement No 876038. The JU receives support from the European Union's Horizon 2020 research and innovation programme and Austria, Sweden, Spain, Italy, France, Portugal, Ireland, Finland, Slovenia, Poland, Netherlands, and Turkey.
+[InSecTT](www.insectt.eu) has received funding from the ECSEL Joint Undertaking (JU) under grant agreement No 876038. The JU receives support from the European Union's Horizon 2020 research and innovation programme and Austria, Sweden, Spain, Italy, France, Portugal, Ireland, Finland, Slovenia, Poland, Netherlands, and Turkey.
 The document reflects only the author's view and the Commission is not responsible for any use that may be made of the information it contains.
 
+### SELFY
+[SELFY](https://selfy-project.eu/) has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101069748.
+This work reflects only the author's view. Neither the European Commission nor the CINEA is responsible for any use that may be made of the information it contains.
