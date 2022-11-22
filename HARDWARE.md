@@ -6,17 +6,17 @@ For our projects we were successful with the following setups
 
 ### vehicleCAPTAIN - mPCI-E/M.2 Quad Expander
 We designed a platform that can host up to four mPCI-E/M.2 modules simultaneously via a USB hub.
-- TODO Figure Quad Expander
+![vehicleCAPTAIN - Open](res/hardware/vehicle_captain_open.JPEG "vehicleCAPTAIN - Open")
 
 The Quad Expander is controlled by a Raspberry Pi 4, which is running the [routing core](https://github.com/virtual-vehicle/vehicle_captain_routing_core).
-- TODO Figure complete vehicleCAPTAIN
+![vehicleCAPTAIN - Closed](res/hardware/vehicle_captain_closed.JPEG "vehicleCAPTAIN - Closed")
 
 If you are interested, please contact <contact_info>.
 
 ### vehicleCAPTAIN - Demo Board
 The demo board allows to host one mPCI-E or one M.2 module
-- TODO Figure demo board
-- 
+![vehicleCAPTAIN Demo Board - Closed](res/hardware/vehicle_captain_demo_board_closed.jpeg "vehicleCAPTAIN Demo Board - Closed")
+
 If you are interested, please contact <contact_info>.
 
 ### Unex SOM301-E
