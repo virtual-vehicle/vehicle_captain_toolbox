@@ -25,7 +25,7 @@ The vehicleCAPTAIN is structured into the following components:
     is a fork of an FOSS [asn1 parser](https://github.com/brchiu/asn1c/tree/velichkov_s1ap_plus_option_group_plus_adding_trailing_ull) to autogenerate ROS2 messages from [ETSI sources](https://forge.etsi.org/rep/ITS/asn1).
 
 ## Copyright
-Please cite the [vehicleCAPTAIN paper](https://TODO_link_to_paper_when_it_is_published) if you used any part of this software toolbox for your work.
+Please cite the [vehicleCAPTAIN](https://github.com/virtual-vehicle/vehicle_captain/blob/main/LITERATURE.md) if you used any part of this software toolbox for your work.
 
 The software parts themselves are managed by FOSS licenses in the specific repositories.
 
