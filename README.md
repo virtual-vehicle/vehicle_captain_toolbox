@@ -1,5 +1,5 @@
 # The vehicleCAPTAIN toolbox
-The vehicle communication platform to anything (vehicleCAPTAIN) toolbox is a collection of software to enable a quick entry into the vehicle-to-everything (V2X) domain.
+The <u>vehicle</u> <u>c</u>ommunic<u>a</u>tion <u>p</u>latform <u>t</u>o <u>a</u>nyth<u>in</u>g (vehicleCAPTAIN) toolbox is a collection of software to enable a quick entry into the vehicle-to-everything (V2X) domain.
 
 ![vehicleCAPTAIN Demo Board - Closed](res/figures/overview_toolbox.png "Overview of the vehicleCAPTAIN toolbox")
 
