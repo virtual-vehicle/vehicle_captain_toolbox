@@ -8,11 +8,20 @@ If you use the vehicleCAPTAIN toolbox for your work, please cite main github [re
 
 If you want to cite the vehicleCAPTAIN toolbox in literature, please cite [this (release Q2/Q3 2023)](doc/PUBLICATION_PENDING.md) book chapter.
 
+Feel free to also cite related literature listed below.
+
 ## Naming
 For cooperate design, please adhere to the suggestions for [naming](doc/NAMING.md).
 
-## Validations
-Expected publication in Q2-Q4 2023. Two journals and one conference paper are pending.
+## Validation
+Publications that validate parts of the vehicleCAPTAIN toolbox will be added when finalized.
+
+### 2023.08.01: Collective Perception: a Delay Evaluation With a Short Discussion on Channel Load
+C. Pilz et al., "Collective Perception: a Delay Evaluation With a Short Discussion on Channel Load," in IEEE Open Journal of Intelligent Transportation Systems, doi: 10.1109/OJITS.2023.3296812.
+Abstract: Automated vehicles and vehicle-to-everything (V2X) communication open the window for sharing of sensor data. This paper aims to provide a systematic view of the delay chain involved. We implemented collective perception (CP) into two street legal automated driving demonstrators (ADDs) to provide insight into the components’ delay. The implementation allowed us to gather highly accurate Quality of Service (QoS) measurements for V2X communication in practical field environments and to gather a set of delay measurements for a working CP system, accompanied by scalability discussions. The results provide a basis for evaluating the delay impact of single components and the applicability of CP use cases from the perspective of time advantage.
+URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198493&isnumber=8957420
+
+**vehicleCAPTAIN toolbox**: this paper confirms the applicability of the basic delay behavior of the vehicleCAPTAIN routing core and connected elements of the vehicleCAPTAIN toolbox.
 
 [comment]: <> (Have different categories for validations and usage)
 
