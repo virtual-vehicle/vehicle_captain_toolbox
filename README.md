@@ -14,7 +14,7 @@ The vehicleCAPTAIN toolbox is structured into the following components:
 - Platform
   - [Routing Core](https://github.com/virtual-vehicle/vehicle_captain_routing_core):
     is a program that can support multiple V2X hardware components with only one interface.
-    (Release Expected Q3 2023)
+    (Release Expected Q4 2023)
   - [Receiver Example](https://github.com/virtual-vehicle/vehicle_captain_routing_receiver_example):
     is a receiver example for the routing software.
   - [Sender Example](https://github.com/virtual-vehicle/vehicle_captain_routing_sender_example):
