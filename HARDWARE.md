@@ -6,6 +6,13 @@ If you are interested in acquiring a development platform from [us](https://www.
 
 [Our](https://www.v2c2.at/) projects use the following hardware configurations.
 
+
+### vehicleCAPTAIN - Development Kit
+We designed a platform that hosts a single mPCI-E/M.2 module. This module is intended to be a V2X module, with V2N communication done via the Ethernet port of the RaspberryPi.
+![vehicleCAPTAIN - Open](res/hardware/vehicle_captain_dev_kit_gen3.jpeg "vehicleCAPTAIN - Development Kit Gen3")
+
+In standard configuration, the development kit consists of a Raspberry Pi 4 at the bottom and a Unex SOM301-E at the top.
+
 ### vehicleCAPTAIN - mPCI-E/M.2 Quad Expander
 We designed a platform that can host up to four mPCI-E/M.2 modules simultaneously via a USB hub.
 ![vehicleCAPTAIN - Open](res/hardware/vehicle_captain_open.JPEG "vehicleCAPTAIN - Open")
@@ -27,6 +34,4 @@ Advantages:
 - access to most parts of the software stack
 
 Disadvantages:
-- precompiled libraries only (no 64bit support)
 - limited amount of BTP ports 
-- propretary standard for power (small mPCI-E adapter needed)

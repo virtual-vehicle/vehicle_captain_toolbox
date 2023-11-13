@@ -31,3 +31,12 @@ Expected publication in Q3-Q4 2023. Pending are a handful theses.
 [comment]: <> (If someone has done implementations, e.g. bachelor/master thesis, it can be linked here)
 [comment]: <> (There should probably be different categories for types of implementations/thesis?)
 [comment]: <> (Or imply order by date of publication?)
+
+## Additional Media
+Additional media referencing the platform
+
+### 2023.11.xx: Heise Medien (German Source)
+Heise Medien (German Source), Dirk Bongart, "IT-Unternehmen in Österreich stellen sich vor", eine Themenbeilage von Heise Medien, Vehicle to Everything, Autonomes Hupen, p.14.
+URL: https://www.mittelstandswiki.de/pdfviewer/itk-unternehmen-aus-oesterreich-stellen-sich-vor-ausgabe-2023-01/
+
+[comment]: <> (Feel free to add sources, where the vehicleCAPTAIN toolbox is mentioned)
