@@ -7,18 +7,15 @@ If you are interested in acquiring a development platform from [us](https://www.
 [Our](https://www.v2c2.at/) projects use the following hardware configurations.
 
 
-### vehicleCAPTAIN - Development Kit
-We designed a platform that hosts a single mPCI-E/M.2 module. This module is intended to be a V2X module, with V2N communication done via the Ethernet port of the RaspberryPi.
-![vehicleCAPTAIN - Open](res/hardware/vehicle_captain_dev_kit_gen3.jpeg "vehicleCAPTAIN - Development Kit Gen3")
+### vehicleCAPTAIN - Development Kit v3
+The **Development Kit v3** hosts a single mPCI-E/M.2 module. This module is intended to be a V2X module, with V2N communication done via the Ethernet port of the computing module.
+![vehicleCAPTAIN - Open](res/hardware/vehicle_captain_dev_kit_gen3.png "vehicleCAPTAIN - Development Kit Gen3")
 
-In standard configuration, the development kit consists of a Raspberry Pi 4 at the bottom and a Unex SOM301-E at the top.
+### vehicleCAPTAIN - QuadModule Development Kit
+The **QuadModule development kit** hosts up to four mPCI-E/M.2 modules simultaneously.
+![vehicleCAPTAIN - Closed](res/hardware/vehicle_captain_closed.jpeg "vehicleCAPTAIN - Closed")
 
-### vehicleCAPTAIN - mPCI-E/M.2 Quad Expander
-We designed a platform that can host up to four mPCI-E/M.2 modules simultaneously via a USB hub.
-![vehicleCAPTAIN - Open](res/hardware/vehicle_captain_open.JPEG "vehicleCAPTAIN - Open")
-
-The Quad Expander is controlled by a Raspberry Pi 4, which is running the [routing core](https://github.com/virtual-vehicle/vehicle_captain_routing_core).
-![vehicleCAPTAIN - Closed](res/hardware/vehicle_captain_closed.JPEG "vehicleCAPTAIN - Closed")
+![vehicleCAPTAIN - Open](res/hardware/vehicle_captain_open.png "vehicleCAPTAIN - Open")
 
 ### vehicleCAPTAIN - Demo Board
 The demo board allows to host one mPCI-E or one M.2 module
